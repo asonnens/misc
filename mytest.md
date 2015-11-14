@@ -10,8 +10,13 @@ This is a test!
 import this
 ``` 
 
-For this part of the activity you will need either TextWrangler (Mac) http://www.barebones.com/products/textwrangler/download.html
-Notepad++ (Windows) https://notepad-plus-plus.org/download/v6.8.6.html
+For this part of the activity you will need a text editor with regular expressions enabled 
+
+TextWrangler (Mac) 
+http://www.barebones.com/products/textwrangler/download.html
+
+Notepad++ (Windows) 
+https://notepad-plus-plus.org/download/v6.8.6.html
 
 
 
